@@ -5,6 +5,7 @@ export default () => (
   <div className="container">
       <div className="row card" id="references">
         <h1>References</h1>
+
         <ul>
           <li><a href="https://codeburst.io/next-js-on-cloud-functions-for-firebase-with-firebase-hosting-7911465298f2">Next.js on Cloud Functions for Firebase with Firebase Hosting</a></li>
           <li><a href="https://www.youtube.com/watch?v=82tZAPMHfT4">Server-side Rendering React from Scratch with Firebase Hosting</a></li>
