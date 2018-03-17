@@ -4,6 +4,7 @@
   "description": "NextJS in Firebase with Bootstrap.",
   "scripts": {
     "install": "yarn build-all",
+    "start": "yarn next",
     "next": "yarn build-firebase && cd app && yarn && yarn dev",
     "preserve": "yarn build-all",
     "serve": "firebase serve",
