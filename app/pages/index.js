@@ -10,7 +10,7 @@ export default () => (
     </div>
 
       <div className="row card">
-        <h1>Getting Started</h1>
+        <h1>Getting Started on Patrick</h1>
        <ul>
          <li>git clone https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap</li>
          <li>cd nextjs-in-firebase-with-bootstrap</li>
